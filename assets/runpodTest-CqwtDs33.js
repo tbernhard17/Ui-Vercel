@@ -1,0 +1,1 @@
+import{t as r}from"./index-Nz6lSWE-.js";import"./react-vendor-DZn__gkT.js";import"./radix-vendor-DUrlxRPG.js";const t=async()=>{try{return!!(await r())}catch(t){return!1}};"undefined"!=typeof window&&(window.verifyRunPodConnectivity=t);export{t as verifyRunPodConnectivity};
